@@ -55,6 +55,7 @@
                         <exclude>**/rs/datatables/**</exclude>
                         <exclude>**/rs/jquery/2.2.4/**</exclude>
                         <exclude>**/rs/jquery/3.2.1/**</exclude>
+                        <exclude>**/rs/jqueryui/1.13.2/**</exclude>
                     </excludes>
                     <linebreakpos>10000</linebreakpos>
                     <suffix>.min</suffix>
